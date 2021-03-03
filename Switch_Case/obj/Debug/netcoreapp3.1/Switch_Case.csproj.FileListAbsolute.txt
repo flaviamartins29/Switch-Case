@@ -1,0 +1,15 @@
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.exe
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.deps.json
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.runtimeconfig.json
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.runtimeconfig.dev.json
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.dll
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.pdb
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.csprojAssemblyReference.cache
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.Form1.resources
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.csproj.GenerateResource.cache
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.AssemblyInfo.cs
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.dll
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.pdb
+C:\Users\flavia.martins\source\repos\Switch_Case\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.genruntimeconfig.cache
